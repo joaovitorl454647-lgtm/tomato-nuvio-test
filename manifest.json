@@ -1,1 +1,19 @@
 
+[
+  {
+    "id": "tomato-test",
+    "name": "Tomato Test",
+    "description": "Teste de identificação de anime e episódios pelo Tomato.",
+    "version": "0.1.0",
+    "author": "João Vítor",
+    "supportedTypes": ["tv"],
+    "filename": "provedores/tomato-test.js",
+    "enabled": true,
+    "logo": "",
+    "contentLanguage": ["pt"],
+    "formats": [],
+    "limited": true,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": false
+  }
+]
