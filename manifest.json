@@ -8,15 +8,11 @@
       "description": "Teste de identificacao do Tomato.",
       "version": "1.0.0",
       "author": "Joao Vitor",
-      "supportedTypes": [
-        "tv"
-      ],
+      "supportedTypes": ["tv"],
       "filename": "providers/tomato-test.js",
       "enabled": true,
       "formats": [],
-      "contentLanguage": [
-        "pt"
-      ]
+      "contentLanguage": ["pt"]
     }
   ]
 }
