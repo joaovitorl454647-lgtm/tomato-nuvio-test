@@ -7,7 +7,7 @@
     "version": "0.1.0",
     "author": "João Vítor",
     "supportedTypes": ["tv"],
-    "filename": "provedors/tomato-test.js",
+    "filename": "providers/tomato-test.js",
     "enabled": true,
     "logo": "",
     "contentLanguage": ["pt"],
