@@ -1,11 +1,22 @@
-[
-  {
-    "id": "tomato-test",
-    "name": "Tomato Test",
-    "version": "1.0.0",
-    "author": "Joao Vitor",
-    "supportedTypes": ["tv"],
-    "filename": "providers/tomato-test.js",
-    "enabled": true
-  }
-]
+{
+  "name": "Tomato Nuvio Test",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "tomato-test",
+      "name": "Tomato Test",
+      "description": "Teste de identificacao do Tomato.",
+      "version": "1.0.0",
+      "author": "Joao Vitor",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/tomato-test.js",
+      "enabled": true,
+      "formats": [],
+      "contentLanguage": [
+        "pt"
+      ]
+    }
+  ]
+}
